@@ -29,7 +29,7 @@ response:
 
 <div id="screen" align="center" dir="auto">
 <p dir="auto"> <img src="https://user-images.githubusercontent.com/110128771/218328101-410308b0-4e33-46ee-9b1f-f9a47bc49296.png" style="max-width: 100%;">
-</p>
+</p> </div>
 
 6.	В Postman отправляем запрос с помощью кнопки SEND.
 7.	В Charles переходим на вкладку Edit Response,  на вкладке JSON Text подменяем имя и нажимаем на кнопку Execute.
