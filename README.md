@@ -25,11 +25,10 @@ response:
    -	Устанавливаем чек-бокс Response.
    -	Нажимаем ОК.
 
-![image](https://user-images.githubusercontent.com/110128771/218327994-b7f80444-7279-4956-a671-8b46f91656e1.png)
+![image](https://user-images.githubusercontent.com/110128771/218328101-410308b0-4e33-46ee-9b1f-f9a47bc49296.png)
 
 6.	В Postman отправляем запрос с помощью кнопки SEND.
 7.	В Charles переходим на вкладку Edit Response,  на вкладке JSON Text подменяем имя и нажимаем на кнопку Execute.
-![image](https://user-images.githubusercontent.com/110128771/218328037-a5fe1a30-818e-4b0d-a4f5-e97e7410caab.png)
-
+![image](https://user-images.githubusercontent.com/110128771/218328115-fd0a8191-bf00-4c11-96ea-d6d2424653df.png)
 8.	В Postman получаем ответ с измененным именем. 
 	![image](https://user-images.githubusercontent.com/110128771/218327722-732d2532-78ad-489a-8da9-e697cc1b4527.png)
