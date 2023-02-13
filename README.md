@@ -63,11 +63,11 @@ response:
 <p dir="auto"> <img src="https://user-images.githubusercontent.com/110128771/218439630-1a0fb93e-fa8d-4764-86d4-b8848a969937.png">
 </p> </div>
 
-9.	В  окне Rewrite Settings нажимаем кнопку ОК.
+9.	В  окне **Rewrite Settings** нажимаем кнопку **ОК**.
+<div id="screen" align="center" dir="auto">
+<p dir="auto"> <img src="https://user-images.githubusercontent.com/110128771/218442984-405d3976-cdfb-4b74-abe1-2ef441833583.png">
+</p> </div>
 
-![image](https://user-images.githubusercontent.com/110128771/218442984-405d3976-cdfb-4b74-abe1-2ef441833583.png)
-
-10.	В Postman отправляем запрос, анализируем результат.
+10.	В **Postman** отправляем запрос, анализируем результат.
 
 ![image](https://user-images.githubusercontent.com/110128771/218443102-20a1fe9e-6805-49f3-94c4-d0ebffce105b.png)
-
