@@ -18,6 +18,7 @@ response:
 <div id="screen" align="center" dir="auto">
 <p dir="auto"> <img src="https://user-images.githubusercontent.com/110128771/218327633-76be3ff0-adb9-4103-9d30-0d5c6723ab05.png")
 </p> </div>
+
 2. В **Charles** выполняем команду: **Proxy/Breakpoint Settings**.
 3. В окне **Breakpoints Settings** включаем чек-бокс **Enable Breakpoints**.
 4. Нажимаем кнопку **Add**.
