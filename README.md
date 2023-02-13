@@ -58,4 +58,5 @@ response:
    - В области **Match** вводим исходные «ключ-значение».
    - В области **Replace** вводим «ключ-значение», которым будем заменять исходное значение.
    - Нажимаем **ОК**.
-![image](https://user-images.githubusercontent.com/110128771/218439630-1a0fb93e-fa8d-4764-86d4-b8848a969937.png)
+   
+   ![image](https://user-images.githubusercontent.com/110128771/218439630-1a0fb93e-fa8d-4764-86d4-b8848a969937.png)
