@@ -15,9 +15,9 @@ response:
 > Подменить url в Charles, чтобы в запросе ушло имя которые вы вписали в Postman, а вернулось то, которое вы подставили в Charles.
 ### Решение. BreakPoint.
 1. Создаем GET-запрос в **Postman**.
-
-![image](https://user-images.githubusercontent.com/110128771/218327633-76be3ff0-adb9-4103-9d30-0d5c6723ab05.png)
-
+<div id="screen" align="center" dir="auto">
+<p dir="auto"> <img src="https://user-images.githubusercontent.com/110128771/218327633-76be3ff0-adb9-4103-9d30-0d5c6723ab05.png")
+</p> </div>
 2. В **Charles** выполняем команду: **Proxy/Breakpoint Settings**.
 3. В окне **Breakpoints Settings** включаем чек-бокс **Enable Breakpoints**.
 4. Нажимаем кнопку **Add**.
@@ -39,5 +39,3 @@ response:
 
 8.	В **Postman** пришел ответ с измененным значением.
 9.	![image](https://user-images.githubusercontent.com/110128771/218413107-25c4a936-76c8-4c13-913c-fa75b054a4d3.png)
- 
-	
