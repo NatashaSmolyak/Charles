@@ -46,13 +46,13 @@ response:
 2.	В **Charles** выполняем команду: **Tools/Rewrite**.
 3.	В окне **Rewrite Settings** включаем чек-бокс **Enable Rewrite**.
 4.	Нажимаем кнопку **Add**.
-5.	В  области **Location** нажимаем кнопку **Add**.
-6.	В окне **Edit location**:
+5.	В  области **Location** окна **Rewrite Settings** нажимаем кнопку **Add**.
+6.	В открывшемся окне **Edit location**:
    - В поле **Host** вводим GET-запрос: http://162.55.220.72:5005/get_method?name=Nata&age=51
    - Нажимаем **TAB** на клавиатуре. 
    - Нажимаем **ОК**.
-7.	В  области **Type**  нажимаем кнопку **Add**.
-8.	В окне **Rewrite Rule**:
+7.	В  области **Type** окна **Rewrite Settings**  нажимаем кнопку **Add**.
+8.	В открывшемся окне **Rewrite Rule**:
    - Для параметра **Type** из списка выбираем значение **Modify Query Param**.
    - В области **Where** устанавливаем чек-бокс **Request**.
    - В области **Match** вводим исходные «ключ-значение».
