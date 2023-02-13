@@ -38,4 +38,4 @@ response:
 ![image](https://user-images.githubusercontent.com/110128771/218412978-46b67f3f-dd64-4b36-9fb3-f091f0ce72ec.png)
 
 8.	В **Postman** пришел ответ с измененным значением.
-9.	![image](https://user-images.githubusercontent.com/110128771/218413107-25c4a936-76c8-4c13-913c-fa75b054a4d3.png)
+![image](https://user-images.githubusercontent.com/110128771/218413107-25c4a936-76c8-4c13-913c-fa75b054a4d3.png)
