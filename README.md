@@ -32,7 +32,7 @@ response:
 </p> </div>
 
 6.	В **Postman** отправляем запрос с помощью кнопки **SEND**.
-7.	В **Charles** переходим на вкладку **Edit Response**,  на вкладке **JSON Text** подменяем имя и нажимаем на кнопку **Execute**.
+7.	В **Charles** переходим на вкладку **EBreakpoint /Edit Request/URL**, подменяем имя и нажимаем на кнопку **Execute**.
 ![image](https://user-images.githubusercontent.com/110128771/218328115-fd0a8191-bf00-4c11-96ea-d6d2424653df.png)
 8.	В **Postman** получаем ответ с измененным именем. 
 	![image](https://user-images.githubusercontent.com/110128771/218327722-732d2532-78ad-489a-8da9-e697cc1b4527.png)
