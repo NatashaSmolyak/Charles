@@ -34,5 +34,10 @@ response:
 6.	В **Postman** отправляем запрос с помощью кнопки **SEND**.
 7.	В **Charles** переходим на вкладку **Breakpoint/Edit Request/URL**, подменяем имя и нажимаем на кнопку **Execute**.
 ![image](https://user-images.githubusercontent.com/110128771/218409592-1736d3c5-1d1d-4921-bdf5-c8c13a8f373e.png)
-8.	В **Postman** видим, что в параметрах запроса изменилось значение ключа **name**. 
-	![image](https://user-images.githubusercontent.com/110128771/218327722-732d2532-78ad-489a-8da9-e697cc1b4527.png)
+7.	Видим, что в перехваченном запросе,  значение ключа name изменилось.
+![image](https://user-images.githubusercontent.com/110128771/218412978-46b67f3f-dd64-4b36-9fb3-f091f0ce72ec.png)
+
+8.	В **Postman** пришел ответ с измененным значением.
+9.	![image](https://user-images.githubusercontent.com/110128771/218413107-25c4a936-76c8-4c13-913c-fa75b054a4d3.png)
+ 
+	
