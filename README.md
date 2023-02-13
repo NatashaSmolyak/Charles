@@ -32,7 +32,7 @@ response:
 </p> </div>
 
 6.	В **Postman** отправляем запрос с помощью кнопки **SEND**.
-7.	В **Charles** переходим на вкладку **EBreakpoint /Edit Request/URL**, подменяем имя и нажимаем на кнопку **Execute**.
-![image](https://user-images.githubusercontent.com/110128771/218328115-fd0a8191-bf00-4c11-96ea-d6d2424653df.png)
-8.	В **Postman** получаем ответ с измененным именем. 
+7.	В **Charles** переходим на вкладку **Breakpoint/Edit Request/URL**, подменяем имя и нажимаем на кнопку **Execute**.
+![image](https://user-images.githubusercontent.com/110128771/218409592-1736d3c5-1d1d-4921-bdf5-c8c13a8f373e.png)
+8.	В **Postman** видим, что в параметрах запроса изменилось значение ключа **name**. 
 	![image](https://user-images.githubusercontent.com/110128771/218327722-732d2532-78ad-489a-8da9-e697cc1b4527.png)
