@@ -24,11 +24,11 @@ response:
 5. В окне **Edit Breakpoint**:
    -	В поле **Host** вводим GET-запрос: http://162.55.220.72:5005/get_method?name=Nata&age=51
    -	Нажимаем **TAB** на клавиатуре. 
-   -	Устанавливаем чек-бокс **Response**.
+   -	Устанавливаем чек-бокс **Request**.
    -	Нажимаем **ОК**.
 
 <div id="screen" align="center" dir="auto">
-<p dir="auto"> <img src="https://user-images.githubusercontent.com/110128771/218328101-410308b0-4e33-46ee-9b1f-f9a47bc49296.png">
+<p dir="auto"> <img src="https://user-images.githubusercontent.com/110128771/218409147-1eca4a1e-f69a-4f72-bdd8-e4b5862798f5.png">
 </p> </div>
 
 6.	В **Postman** отправляем запрос с помощью кнопки **SEND**.
