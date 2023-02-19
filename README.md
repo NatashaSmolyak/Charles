@@ -1,4 +1,4 @@
-# Charles Proxy. 
+![image](https://github.com/NatashaSmolyak/Charles/blob/main/assets/charles-header-image.png)
 ### Задание 1. На страничке представлен алгоритм выполнения первого задания. 
 ```
 Method: GET, EndPoint: /get_method
